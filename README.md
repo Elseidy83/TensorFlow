@@ -14,7 +14,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
-  
+* TensorFlow Fork Modifications at 13-08-2022
 
 ## Eager Execution
 
